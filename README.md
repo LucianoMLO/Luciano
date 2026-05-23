@@ -64,15 +64,6 @@ Me chamo Luciano Oliveira, tenho 20+ anos de experiência em engenharia, gestão
 
 ---
 
-## 🏆 Reconhecimentos
-
-- **ARM Especialista Técnico Destaque 2019** — Melhor resultado comercial em tecnologia SENAI
-- **Paraninfo** da turma de formandos em Engenharia de Produção
-- **Avaliador** em banca de TCC em Engenharia de Produção
-- **Iniciação Científica** em Engenharia Mecânica
-
----
-
 ## 📈 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianoMLO&show_icons=true&theme=dark)

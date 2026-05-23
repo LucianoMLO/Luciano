@@ -1,149 +1,90 @@
-# 👋 Olá! Eu sou **Luciano Oliveira**
+# Luciano Oliveira
 
-> **Inteligência Comercial B2B | Transformação Digital | BI & Data Science**
+**Gerente Comercial | Inteligência Comercial B2B | Transformação Digital | BI & Data Science**
+
+Me chamo Luciano Oliveira, tenho 20+ anos de experiência em engenharia, gestão industrial e desenvolvimento de negócios B2B. Sou Mestre em Tecnologia, Engenheiro Mecânico e MBA em Gestão Empresarial. Atualmente, lidero iniciativas voltadas à **estruturação de processos comerciais, análise de indicadores e inteligência de dados** para aumentar previsibilidade e geração de receita. Compartilho conhecimento através do meu [canal no YouTube](http://www.youtube.com/@lucianooliveira2811), onde abordo transformação digital, BI, data science e negócios B2B.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianooliveira-56378125/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](http://www.youtube.com/@lucianooliveira2811)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucianomlo@gmail.com)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7010-4734)
 
 ---
 
-## 🎯 Sobre mim
+## 💻 Linguagens e Tecnologias
 
-Sou um **gerente comercial e consultor com 20+ anos de experiência** em engenharia, gestão industrial e desenvolvimento de negócios B2B. Atualmente, lidero iniciativas voltadas à **estruturação de processos comerciais, análise de indicadores e inteligência de dados** para aumentar previsibilidade e geração de receita.
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF6B6B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-0066CC?style=flat&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</div>
 
-Minha trajetória combina:
-- ✅ **Liderança comercial** e desenvolvimento de negócios B2B
-- ✅ **Estruturação de pré-vendas e pós-vendas**
-- ✅ **Implantação de métricas e indicadores de performance**
-- ✅ **Consultoria em transformação digital e gestão estratégica**
-- ✅ **Inteligência comercial** com foco em rentabilidade, performance de funil e expansão de receita
+---
 
-### 📚 Formação Acadêmica
+## 📊 Focos Principais
+
+🎯 **Inteligência Comercial B2B**
+- Health Score e previsibilidade comercial
+- Governança de dados comerciais
+- Rentabilidade por carteira e performance de funil
+
+📈 **BI & Data Science**
+- Dashboards e relatórios avançados
+- ETL e pipelines de dados
+- Análise preditiva e indicadores
+
+🔧 **Transformação Digital**
+- Integração de CRM, ERP e BI
+- Automação de processos comerciais
+- Consultoria em gestão estratégica
+
+---
+
+## 📁 Principais Projetos
+
+**[sales_system_python](https://github.com/LucianoMLO/sales_system_python)** — Sistema completo de gestão de vendas com Python, SQLite, ETL e dashboards Streamlit para análise de KPIs e previsibilidade comercial.
+
+**[bi-local-python](https://github.com/LucianoMLO/bi-local-python)** — BI local com Data Lake, ETL, Data Warehouse SQLite e relatórios HTML navegáveis. Solução gratuita e automatizável.
+
+**[variables_in_the_experiment](https://github.com/LucianoMLO/variables_in_the_experiment)** — Dataset de pesquisa para previsão de espessura de revestimento de zinco. Aplicação de IA em processos de eletrodeposição.
+
+**[SSD-Capacity-Tester](https://github.com/LucianoMLO/SSD-Capacity-Tester)** — Utilitário em Python para verificar capacidade real de SSDs, cartões SD e Pendrives.
+
+---
+
+## 🎓 Formação & Certificações
+
 - **MSc em Tecnologia e Engenharia de Materiais** (IFRS)
 - **MBA em Gestão Empresarial** (FGV)
 - **Engenheiro Mecânico** (FURG)
-- **Especialização em Gestão da Produção**
-- **Certificações em BI, Data Science, IA e Machine Learning** (Microsoft Azure, CCEE, I2A2)
-
----
-
-## 🚀 Meu Foco Atual
-
-### 1. **Inteligência Comercial B2B**
-   - Health Score e previsibilidade comercial
-   - Governança de dados comerciais
-   - Análise de rentabilidade por carteira
-   - Performance de funil de vendas
-
-### 2. **Tecnologias & Ferramentas**
-   - **BI/Analytics**: Power BI, Dashboards HTML, SQL
-   - **Programação**: Python, SQLite, DBeaver
-   - **Integração de Sistemas**: CRM, ERP, BI
-   - **Transformação Digital**: Processos, automação, dados
-
-### 3. **Experiências Relevantes**
-   - 🏢 **MA Holding Group - Soluções em Tecnologia** - Gerente Comercial e Governança (2023-Present)
-   - 📚 **Pós Navigare** - Professor em Indústria 4.0 e Manutenção Inteligente (2021-2022)
-   - 🔬 **FIERGS** - Relações com Mercado & Prospecção de P&D (2019-2021)
-   - 🏭 **Múltiplas empresas** em Engenharia Industrial, Gestão de Produção e ERP
-
----
-
-## 💻 Meus Projetos no GitHub
-
-### **1. [sales_system_python](https://github.com/LucianoMLO/sales_system_python)**
-🎯 **Sistema completo de gestão de vendas em Python**
-- Modelagem de dados com SQLite
-- Pipeline ETL robusto
-- Dashboards interativos com Streamlit
-- Análise de KPIs e previsibilidade comercial
-
-### **2. [bi-local-python](https://github.com/LucianoMLO/bi-local-python)**
-📊 **Sistema de BI local - Data Lake, ETL e Data Warehouse**
-- Data Lake com estrutura modular
-- ETL em Python com SQLite
-- Relatórios HTML navegáveis por unidade de negócio
-- Solução gratuita, segura e automatizável
-
-### **3. [variables_in_the_experiment](https://github.com/LucianoMLO/variables_in_the_experiment)**
-🔬 **Dados experimentais de galvanização - Dissertação de Mestrado**
-- Dataset para previsão de espessura de revestimento de zinco
-- Aplicação de IA em processos de eletrodeposição
-- Publicado em revista científica (Química Nova)
-
-### **4. [SSD-Capacity-Tester](https://github.com/LucianoMLO/SSD-Capacity-Tester)**
-🔧 **Utilitário para verificação de capacidade real de SSDs e Pendrives**
-- Ferramenta prática para validação de armazenamento
-- Suporte em português e inglês
-- Diagnóstico rápido de capacidade real
-
----
-
-## 📺 Conteúdo Educativo
-
-Criei conteúdo em vídeo explorando tópicos em:
-- **Transformação Digital** e Indústria 4.0
-- **BI e Data Science** aplicados
-- **Processos Comerciais** e Gestão de Vendas
-- **Python e Automation** para negócios
-- **Smart Manufacturing** e IoT
-
-📹 [**Veja meu canal no YouTube**](http://www.youtube.com/@lucianooliveira2811)
-
----
-
-## 🎓 Publicações & Pesquisa
-
-- ✍️ **TECHNOLOGICAL ADVANCES IN ELECTROPLATING: ARTIFICIAL INTELLIGENCE TO PREDICT ZINC COATING THICKNESS** - Pesquisa aplicada em IA para processos industriais
-- ✍️ **ARTIFICIAL INTELLIGENCE APPLIED TO THE ELECTROPLATING PROCESS** - Literature Review
-- ✍️ **RECUPERAÇÃO JUDICIAL SOB A ÓTICA DO BALANCED SCORECARD** - Perspectiva financeira e gestão
-- ✍️ **Análise de Viabilidade Técnica e Econômica de Turbinas Eólicas**
-- ✍️ **Estudo de Interação Fluido-Estrutura em Aerogeradores**
+- **Especialização em Gestão da Produção** (URI)
+- **Certificações**: Power BI, Data Science (Microsoft Azure), Machine Learning, CCEE
 
 ---
 
 ## 🏆 Reconhecimentos
 
-- 🎖️ **Paraninfo da turma de formandos em Engenharia de Produção**
-- 🎖️ **Avaliador em banca de TCC em Engenharia de Produção**
-- 🎖️ **ARM Especialista Técnico Destaque 2019** - Melhor resultado comercial em tecnologia SENAI
-- 🎖️ **Iniciação Científica** em Engenharia Mecânica
+- **ARM Especialista Técnico Destaque 2019** — Melhor resultado comercial em tecnologia SENAI
+- **Paraninfo** da turma de formandos em Engenharia de Produção
+- **Avaliador** em banca de TCC em Engenharia de Produção
+- **Iniciação Científica** em Engenharia Mecânica
 
 ---
 
-## 🛠️ Competências Técnicas
+## 📈 Estatísticas
 
-| Categoria | Skills |
-|-----------|--------|
-| **Linguagens** | Python, SQL |
-| **Bancos de Dados** | SQLite, DBeaver |
-| **BI/Analytics** | Power BI, Dashboards HTML, Streamlit |
-| **Soft Skills** | Liderança, Gestão Estratégica, Transformação Digital, Consultoria |
-| **Idiomas** | Português (Nativo), Inglês (Profissional) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianoMLO&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMLO&layout=compact&theme=dark)
 
 ---
 
-## 📫 Entre em Contato
+## 📍 Localização
 
-- 💼 **LinkedIn**: [in/luciano-oliveira-56378125](https://www.linkedin.com/in/lucianooliveira-56378125/)
-- 🐙 **GitHub**: [@LucianoMLO](https://github.com/LucianoMLO)
-- 📊 **ORCID**: [0009-0004-7010-4734](https://orcid.org/0009-0004-7010-4734)
-
----
-
-## 💡 Filosofia Profissional
-
-> *"Empresas B2B crescem de forma sustentável quando estratégia comercial e dados caminham juntos."*
-
-Atuo na integração entre **Governança Comercial**, **Inteligência Comercial** e **Gestão de Performance B2B**, conectando estratégia, indicadores e tecnologia para aumentar previsibilidade, eficiência e geração de receita.
-
----
-
-### ⚡ Vamos trabalhar juntos?
-
-Se você busca expertise em **inteligência comercial, transformação digital, BI ou consultoria estratégica**, ficarei feliz em conversar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianooliveira-56378125/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoMLO)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@lucianooliveira2811)
-
----
-
-**Última atualização**: Maio 2026 | Caxias do Sul, RS - Brasil
+Caxias do Sul, Rio Grande do Sul - Brasil

@@ -19,6 +19,7 @@ Me chamo Luciano Oliveira, tenho 20+ anos de experiência em engenharia, gestão
 | Governança de dados comerciais | ETL e pipelines de dados | Automação de processos comerciais |
 | Rentabilidade por carteira e performance de funil | Análise preditiva e indicadores | Consultoria em gestão estratégica |
 
+</div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
@@ -42,7 +43,6 @@ Me chamo Luciano Oliveira, tenho 20+ anos de experiência em engenharia, gestão
 
 ## 🎓 Formação & Certificações
 
-**MSc em Tecnologia e Engenharia de Materiais** (IFRS) | **MBA em Gestão Empresarial** (FGV) | **Engenheiro Mecânico** (FURG) | **Especialização em Gestão da Produção** (URI)
-- **Certificações**: Power BI, Data Science (Microsoft Azure), Machine Learning, CCEE
+| **MSc em Tecnologia e Engenharia de Materiais** (IFRS) | **MBA em Gestão Empresarial** (FGV) | **Engenheiro Mecânico** (FURG) | **Especialização em Gestão da Produção** (URI) | **Certificações**: Power BI, Data Science (Microsoft Azure), Machine Learning, CCEE |
 
 ---

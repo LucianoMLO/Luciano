@@ -25,10 +25,10 @@ Me chamo Luciano Oliveira, tenho 20+ anos de experiência em engenharia, gestão
 
 ## 📊 Focos Principais
 
-🎯 **Inteligência Comercial B2B**
-- Health Score e previsibilidade comercial
-- Governança de dados comerciais
-- Rentabilidade por carteira e performance de funil
+🎯 **Inteligência Comercial B2B** | 📈 **BI & Data Science**
+- Health Score e previsibilidade comercial | - Dashboards e relatórios avançados
+- Governança de dados comerciais |
+- Rentabilidade por carteira e performance de funil |
 
 📈 **BI & Data Science**
 - Dashboards e relatórios avançados
@@ -63,14 +63,3 @@ Me chamo Luciano Oliveira, tenho 20+ anos de experiência em engenharia, gestão
 - **Certificações**: Power BI, Data Science (Microsoft Azure), Machine Learning, CCEE
 
 ---
-
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianoMLO&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMLO&layout=compact&theme=dark)
-
----
-
-## 📍 Localização
-
-Caxias do Sul, Rio Grande do Sul - Brasil

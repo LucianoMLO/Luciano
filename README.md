@@ -25,20 +25,13 @@ Me chamo Luciano Oliveira, tenho 20+ anos de experiência em engenharia, gestão
 
 ## 📊 Focos Principais
 
-🎯 **Inteligência Comercial B2B** | 📈 **BI & Data Science**
-- Health Score e previsibilidade comercial | - Dashboards e relatórios avançados
-- Governança de dados comerciais |
-- Rentabilidade por carteira e performance de funil |
+| 🎯 Inteligência Comercial B2B | 📈 BI & Data Science | 🔧 Transformação Digital |
+|---|---|---|
+| Health Score e previsibilidade comercial | Dashboards e relatórios avançados | Integração de CRM, ERP e BI |
+| Governança de dados comerciais | ETL e pipelines de dados | Automação de processos comerciais |
+| Rentabilidade por carteira e performance de funil | Análise preditiva e indicadores | Consultoria em gestão estratégica |
 
-📈 **BI & Data Science**
-- Dashboards e relatórios avançados
-- ETL e pipelines de dados
-- Análise preditiva e indicadores
 
-🔧 **Transformação Digital**
-- Integração de CRM, ERP e BI
-- Automação de processos comerciais
-- Consultoria em gestão estratégica
 
 ---
 
